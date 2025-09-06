@@ -1,1 +1,1 @@
-Simple aws lambda function for chaicago taxi data project
+Simple aws lambda function for Chicago taxi data project
